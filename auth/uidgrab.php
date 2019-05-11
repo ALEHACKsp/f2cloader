@@ -4,7 +4,7 @@ echo "<font face=consolas size=-1 color=white>";
 echo "<style>html, body {{ padding: 0; margin: 0 }}</style>";
 $servername = "localhost";
 $username = "root";
-$password = "EffeX2002";
+$password = "EffeX";
 $dbname = "forum";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
