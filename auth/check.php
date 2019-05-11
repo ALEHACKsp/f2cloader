@@ -1,5 +1,5 @@
 <?php
-$link = mysqli_connect("localhost", "root","EffeX2002");
+$link = mysqli_connect("localhost", "root","EffeX");
 $database = mysqli_select_db($link, "forum");
 
 $user = $_GET['username'];
