@@ -1,7 +1,7 @@
 # f2cloader
 
 0. I'm Doing a new project completely not based on anything so this is going open source<br>
-1 .It's a loader based on thaisen's loader3<br>
+1. It's a loader based on thaisen's loader3<br>
 2. I'm not proud of it.<br>
 3. Only like 30 people used this who registered on my forum : ( <br>
 4. Don't sell this (Thaisen will come after your ass)<br>
